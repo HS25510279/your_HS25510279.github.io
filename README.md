@@ -6,7 +6,6 @@
 ## About Me
 [I am Haranni Shanmuganeshan. A first year Biotechnology undergraduate at the SriLanka Institute of Information Technology.My academic intrestslie in the intersection of science and technology, with a particular focus on how biotechnology can address real-world challenges. I am passionate about using biotechnology to solve real-world problems . ]
 
-## Educational Qualifications
 ### Secondary Education
 - *Ramanathan Hindu Ladies College* (2010 - 2024)
   - Subjects: [Biology, Physics,Chemistry]
@@ -39,8 +38,8 @@
 
 ## Contact
 - *Email:* Harannishan@gmail.com
-- *LinkedIn:* [Your Profile](https://linkedin.com/in/yourprofile)
-- *GitHub:* [Your Profile](https://github.com/yourusername)
+- *LinkedIn:* (https://linkedin.com/in/Haranni Shan)
+- *GitHub:* (https://github.com/HS25510279)
 
 ---
 Last updated: [01.10.2025]
