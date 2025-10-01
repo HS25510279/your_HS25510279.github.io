@@ -4,40 +4,21 @@
 ![Haranni Shanmuganeshan]( ) 
 
 ## About Me
-[Short paragraph about yourself - use regular text here]
+[my name is Haranni Shanmuganeshan. My ambition is to become a researcher .]
 
 ## Educational Qualifications
 ### Secondary Education
-- *School Name* (Year Started - Year Ended)
-  - Subjects: [Your subjects]
-  - Achievements: [Any awards]
+- *Ramanathan Hindu Ladies College* (2010 - 2024)
+  - Subjects: [Biology, Physics,Chemistry]
+  - Achievements: [2010 - creative writer]
 
 ### Higher Education
-- *University Name* (Year Started - Year Ended)
-  - Degree: [Your degree]
-  - GPA: [Your GPA]
-
-## Work Experience
-*Company Name* (Date Started - Date Ended)
-Position Title
-- Responsibility 1
-- Responsibility 2
-- Achievement 1
-
-## Professional Qualifications
-- Certification 1 (Year)
-- Certification 2 (Year)
+- *SLIIT* (2025 - 2029)
+  - Degree: [Bachelor of Biotechnology]
 
 ## Projects
-### [Project 1 Name]
-*Technologies:* HTML, CSS, JavaScript
-- Description of project
-- [Live Demo](https://your-project-link.com)
-- [Source Code](https://github.com/yourusername/project1)
-
-### [Project 2 Name]
-*Technologies:* Python, Django
-- Description of project
+### [Project 1 Roots of Tomorrow]
+- It is an environmental restoration project.It's about planting Mee trees around wakwella-Galle.
 
 ## Skills
 *Technical:*
@@ -57,7 +38,7 @@ Position Title
 📄 [Download My Resume](resume.pdf) ← Upload your PDF first
 
 ## Contact
-- *Email:* your.email@example.com
+- *Email:* Harannishan@gmail.com
 - *LinkedIn:* [Your Profile](https://linkedin.com/in/yourprofile)
 - *GitHub:* [Your Profile](https://github.com/yourusername)
 
