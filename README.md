@@ -43,4 +43,4 @@
 - *GitHub:* [Your Profile](https://github.com/yourusername)
 
 ---
-Last updated: [Current Date]
+Last updated: [01.10.2025]
