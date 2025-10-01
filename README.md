@@ -38,7 +38,7 @@
 
 ## Contact
 - *Email:* Harannishan@gmail.com
-- *LinkedIn:* (https://linkedin.com/in/Haranni Shan)
+- *LinkedIn:* (https://linkedin.com/in/HaranniShan)
 - *GitHub:* (https://github.com/HS25510279)
 
 ---
