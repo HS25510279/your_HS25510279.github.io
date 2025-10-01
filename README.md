@@ -35,7 +35,7 @@
 - Traveling
 
 ## Resume
-📄 [Download My Resume](resume.pdf) ← Upload your PDF first
+📄 [Download My Resume](cv.pdf) ← Upload your PDF first
 
 ## Contact
 - *Email:* Harannishan@gmail.com
