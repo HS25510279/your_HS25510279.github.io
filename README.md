@@ -4,7 +4,7 @@
 ![Haranni Shanmuganeshan]( ) 
 
 ## About Me
-[my name is Haranni Shanmuganeshan. My ambition is to become a researcher .]
+[I am Haranni Shanmuganeshan. A first year Biotechnology undergraduate at the SriLanka Institute of Information Technology.My academic intrestslie in the intersection of science and technology, with a particular focus on how biotechnology can address real-world challenges. I am passionate about using biotechnology to solve real-world problems . ]
 
 ## Educational Qualifications
 ### Secondary Education
